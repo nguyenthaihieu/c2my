@@ -3,7 +3,7 @@
 // [CH] 以下变量请根据空间商提供的账号参数修改,如有疑问,请联系服务器提供商
 
 	$dbhost = 'localhost';			// 数据库服务器
-	$dbuser = 'order_dg';			// 数据库用户名
+	$dbuser = 'change';			// 数据库用户名
 	$dbpw = 'bMHr8ttb';				// 数据库密码
 	$dbname = 'order_dg';			// 数据库名
 	$pconnect = 0;				// 数据库持久连接 0=关闭, 1=打开
